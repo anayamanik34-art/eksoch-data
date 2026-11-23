@@ -42,5 +42,36 @@
       "purpose": "maskable"
     }
   ],
-  "screenshots": []
+  "screenshots": [
+    {
+      "src": "screenshots/narrow-1-all.webp",
+      "sizes": "540x960",
+      "type": "image/webp",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/narrow-2-product.webp",
+      "sizes": "540x960",
+      "type": "image/webp",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/wide-1-all.webp",
+      "sizes": "1280x800",
+      "type": "image/webp",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshots/wide-2-sql.webp",
+      "sizes": "1280x800",
+      "type": "image/webp",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshots/wide-3-product.webp",
+      "sizes": "1280x800",
+      "type": "image/webp",
+      "form_factor": "wide"
+    }
+  ]
 }

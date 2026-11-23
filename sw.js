@@ -1,5 +1,5 @@
 // Offline support: the app shell is cached on install, images as they are viewed.
-const CACHE = "eksoch-data-1795470542";
+const CACHE = "eksoch-data-1795471112";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "data.json", "manifest.webmanifest",
   "privacy.html", "icons/icon-192.png", "icons/icon-512.png"];
 
