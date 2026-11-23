@@ -1,0 +1,649 @@
+{
+ "store_url": "https://eksochanalytics.gumroad.com",
+ "categories": [
+  {
+   "name": "Datasets & Dashboards",
+   "description": "Practice-ready datasets with interactive dashboards, data dictionaries and business questions to answer."
+  },
+  {
+   "name": "SQL Courses",
+   "description": "The Data Skills Series: plain-English SQL from zero to advanced, with practice databases and printable papers.",
+   "path": [
+    "mevssq",
+    "gzntqq",
+    "bjxjmf",
+    "cxhsk"
+   ]
+  },
+  {
+   "name": "Excel Templates & Research",
+   "description": "Ready-made Excel workbooks for risk analysis and market research."
+  },
+  {
+   "name": "Free Cheat Sheets",
+   "description": "Free printable cheat sheets. Pay what you want if they help you."
+  }
+ ],
+ "products": [
+  {
+   "id": "jizbro",
+   "category": "Datasets & Dashboards",
+   "badge": "Bundle · 40% off",
+   "name": "Eksoch Analytics Complete Collection: Datasets, Dashboards & Reports",
+   "price_cents": 6840,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/jizbro",
+   "summary": "Build a portfolio that stands out with 11 ready-to-use datasets and interactive dashboards, bundled at 40% off.",
+   "details": [
+    [
+     "Includes",
+     "All Data Cubes, Retail Pulse, Australia Identity & Society"
+    ],
+    [
+     "Datasets",
+     "11"
+    ],
+    [
+     "Normally",
+     "A$114 bought separately"
+    ]
+   ],
+   "highlights": [
+    "All Data Cubes: 7 business datasets, 57 tables, about 746,000 rows",
+    "Retail Pulse: ABS online retail sales dashboard, June 2020 to June 2025",
+    "Australia Identity & Society: 3 synthetic datasets calibrated to the 2021 Census",
+    "140 business questions, sample SQL, data dictionaries and 6 reports",
+    "For portfolios, SQL / Excel / Power BI / Python practice, teaching and interview prep"
+   ],
+   "images": [
+    {
+     "thumb": "img/jizbro-0-t.webp",
+     "full": "img/jizbro-0.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$68.40",
+   "free": false
+  },
+  {
+   "id": "vuusy",
+   "category": "Datasets & Dashboards",
+   "badge": "7 datasets",
+   "name": "All Data Cubes: Premium Dataset Collection (7 Business Datasets + Interactive Dashboards)",
+   "price_cents": 5900,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/all-data-cubes",
+   "summary": "Seven fictional business datasets, each with its own offline interactive dashboard, clean and messy copies, Excel files, SQL and 20 practice questions.",
+   "details": [
+    [
+     "Datasets",
+     "7 business datasets"
+    ],
+    [
+     "Size",
+     "57 tables, about 746,000 rows"
+    ],
+    [
+     "Dashboards",
+     "7, work offline in any modern browser"
+    ],
+    [
+     "Data",
+     "Synthetic, all money in AUD"
+    ]
+   ],
+   "highlights": [
+    "E-commerce, retail & supermarket, HR, finance, marketing, healthcare operations, supply chain",
+    "Clean CSV + Excel, plus a raw version with 6 planted data problems and an answer key",
+    "Data dictionary, cleaning guide, sample SQL and a KPI guide for every dataset",
+    "20 business questions per dataset (140 in total)",
+    "Tables reconcile: invoices tie to revenue and balance sheets balance"
+   ],
+   "images": [
+    {
+     "thumb": "img/vuusy-0-t.webp",
+     "full": "img/vuusy-0.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/vuusy-1-t.webp",
+     "full": "img/vuusy-1.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/vuusy-2-t.webp",
+     "full": "img/vuusy-2.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/vuusy-3-t.webp",
+     "full": "img/vuusy-3.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$59",
+   "free": false
+  },
+  {
+   "id": "fhdvzj",
+   "category": "Datasets & Dashboards",
+   "name": "Retail Pulse – Interactive Sales Analytics Dashboard",
+   "price_cents": 3000,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/retail-pulse-dashboard",
+   "summary": "Explore Australian retail sales with an interactive web-based dashboard featuring KPIs, sales trends, seasonal analysis and downloadable data.",
+   "details": [
+    [
+     "Format",
+     "Interactive HTML dashboard"
+    ],
+    [
+     "Data coverage",
+     "61 months, June 2020 – June 2025"
+    ],
+    [
+     "Source",
+     "Australian Bureau of Statistics (ABS)"
+    ],
+    [
+     "Installation",
+     "None: open index.html"
+    ]
+   ],
+   "highlights": [
+    "KPIs: latest and average monthly sales, year-over-year growth, peak month",
+    "Original vs seasonally adjusted views and seasonal patterns",
+    "Filter by year or month, search records, export to CSV",
+    "No Power BI, Excel or coding needed, works offline"
+   ],
+   "images": [
+    {
+     "thumb": "img/fhdvzj-0-t.webp",
+     "full": "img/fhdvzj-0.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$30",
+   "free": false
+  },
+  {
+   "id": "fmehe",
+   "category": "Datasets & Dashboards",
+   "name": "Australia Identity & Society: Diaspora, First Nations & Settler Politics (3 Synthetic Datasets + Dashboards + Reports)",
+   "price_cents": 2500,
+   "pwyw": true,
+   "url": "https://eksochanalytics.gumroad.com/l/australia-identity-society",
+   "summary": "Three synthetic Australian datasets (Indian & Sikh diaspora, First Nations peoples, British & Irish settlers and politics), each with a notebook, dashboard and two reports.",
+   "details": [
+    [
+     "Topics",
+     "3"
+    ],
+    [
+     "Records",
+     "20,000 people, 160 regions, 15,000 arrivals, 151 electorates, 8,000 survey respondents"
+    ],
+    [
+     "Includes",
+     "3 notebooks, 3 dashboards, 6 reports, CSV + Excel"
+    ],
+    [
+     "Calibrated to",
+     "ABS 2021 Census"
+    ]
+   ],
+   "highlights": [
+    "Jupyter notebook generators: change the seed to make fresh data",
+    "Interactive dashboards with filters, KPI cards and explorer tables",
+    "Executive and Data Analysis reports in Word and PDF",
+    "Exercises with known answers, including a built-in confounding trap"
+   ],
+   "images": [
+    {
+     "thumb": "img/fmehe-0-t.webp",
+     "full": "img/fmehe-0.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/fmehe-1-t.webp",
+     "full": "img/fmehe-1.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/fmehe-2-t.webp",
+     "full": "img/fmehe-2.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$25+",
+   "free": false
+  },
+  {
+   "id": "hhxhgb",
+   "category": "Datasets & Dashboards",
+   "name": "Aboriginal & Torres Strait Islander Peoples of Australia: Synthetic Dataset + Dashboard + Reports",
+   "price_cents": 2500,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/first-nations-australia-synthetic-data",
+   "summary": "160 synthetic regions matching the 2021 Census First Nations count in every state, with strengths-first indicators, a dashboard and two reports.",
+   "details": [
+    [
+     "Records",
+     "160 synthetic regions, 17 columns"
+    ],
+    [
+     "Includes",
+     "Notebook, dashboard, 2 reports, CSV + Excel"
+    ],
+    [
+     "Calibrated to",
+     "ABS 2021 Census"
+    ]
+   ],
+   "highlights": [
+    "Strengths-based indicators first: language, culture, rangers, native title",
+    "Housing, education, employment and income in context, set by remoteness",
+    "Guidance on Indigenous Data Sovereignty (Maiam nayri Wingara, CARE principles)",
+    "Five exercises including population weighting and confounding by remoteness"
+   ],
+   "images": [
+    {
+     "thumb": "img/hhxhgb-0-t.webp",
+     "full": "img/hhxhgb-0.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/hhxhgb-1-t.webp",
+     "full": "img/hhxhgb-1.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/hhxhgb-2-t.webp",
+     "full": "img/hhxhgb-2.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$25",
+   "free": false
+  },
+  {
+   "id": "ktbhyu",
+   "category": "Datasets & Dashboards",
+   "name": "British & Irish Settlers and Australian Politics: Synthetic Datasets + Dashboard + Reports",
+   "price_cents": 2500,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/british-irish-settlers-australian-politics",
+   "summary": "Colonial arrivals 1788–1900, 151 electorates and an 8,000-person survey: synthetic, linked, with a dashboard, two reports and a confounding trap.",
+   "details": [
+    [
+     "Records",
+     "15,000 arrivals, 151 electorates, 8,000 survey respondents"
+    ],
+    [
+     "Includes",
+     "Notebook, dashboard, 2 reports, CSV + Excel"
+    ],
+    [
+     "Calibrated to",
+     "ABS 2021 Census, 2022 seats"
+    ]
+   ],
+   "highlights": [
+    "15,000 colonial arrivals with origin, colony, passage type, religion and literacy",
+    "151 electorates with a simulated referendum and primary votes",
+    "Attitudes survey with realistic non-response bias and raked weights",
+    "A worked regression that exposes a built-in confounding trap"
+   ],
+   "images": [
+    {
+     "thumb": "img/ktbhyu-0-t.webp",
+     "full": "img/ktbhyu-0.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/ktbhyu-1-t.webp",
+     "full": "img/ktbhyu-1.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/ktbhyu-2-t.webp",
+     "full": "img/ktbhyu-2.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$25",
+   "free": false
+  },
+  {
+   "id": "mevssq",
+   "category": "SQL Courses",
+   "badge": "Start here",
+   "name": "SQL Basics, Volume 1: Learn SQL from Zero (with 3 Practice Papers)",
+   "price_cents": 1500,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/mevssq",
+   "summary": "A simple, friendly SQL course for complete beginners: 12 short lessons in plain English, a practice database, 3 printable practice papers and a full answer key.",
+   "details": [
+    [
+     "Course book",
+     "52-page PDF + EPUB, 12 lessons"
+    ],
+    [
+     "Practice papers",
+     "3 + answer key"
+    ],
+    [
+     "Includes",
+     "Practice database (.sql) & cheat sheet"
+    ],
+    [
+     "Level",
+     "Complete beginner"
+    ]
+   ],
+   "highlights": [
+    "SELECT, WHERE, ORDER BY, GROUP BY, HAVING, JOINs, INSERT / UPDATE / DELETE",
+    "Run every example free in your browser, nothing to install",
+    "\"Try it yourself\" exercises after every lesson",
+    "Reads on laptop, phone, Kindle and Kobo"
+   ],
+   "images": [
+    {
+     "thumb": "img/mevssq-0-t.webp",
+     "full": "img/mevssq-0.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$15",
+   "free": false
+  },
+  {
+   "id": "gzntqq",
+   "category": "SQL Courses",
+   "name": "SQL Intermediate, Volume 2: CTEs, Window Functions & Real Business Questions (with 5 Practice Papers)",
+   "price_cents": 2300,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/gzntqq",
+   "summary": "12 plain-English lessons on subqueries, CTEs, CASE, every kind of JOIN, dates and window functions, with a full-year practice database, 5 practice papers and a complete answer key.",
+   "details": [
+    [
+     "Course book",
+     "79-page PDF + EPUB, 12 lessons"
+    ],
+    [
+     "Practice papers",
+     "5 + 28-page answer key"
+    ],
+    [
+     "Includes",
+     "7-table practice database & cheat sheet"
+    ],
+    [
+     "Level",
+     "Intermediate (after Volume 1)"
+    ]
+   ],
+   "highlights": [
+    "CTEs, recursive CTEs, EXISTS, CASE WHEN and every JOIN type",
+    "ROW_NUMBER, RANK, running totals, moving averages, LAG and LEAD",
+    "Messy-on-purpose data and \"Watch out\" boxes for common traps",
+    "Notes for MySQL, PostgreSQL and SQL Server"
+   ],
+   "images": [
+    {
+     "thumb": "img/gzntqq-0-t.webp",
+     "full": "img/gzntqq-0.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$23",
+   "free": false
+  },
+  {
+   "id": "bjxjmf",
+   "category": "SQL Courses",
+   "name": "SQL Advanced, Volume 3: Window Frames, Cohorts, Funnels & Fast Queries (with 5 Practice Papers)",
+   "price_cents": 1900,
+   "pwyw": true,
+   "url": "https://eksochanalytics.gumroad.com/l/bjxjmf",
+   "summary": "12 plain-English lessons on window frames, percentiles, streaks, sessions, cohorts, funnels, data quality, hierarchies, JSON and query performance, with 5 business case studies.",
+   "details": [
+    [
+     "Course book",
+     "61-page PDF + EPUB, 12 lessons + 5 case studies"
+    ],
+    [
+     "Practice papers",
+     "5 + 25-page answer key"
+    ],
+    [
+     "Includes",
+     "13-table practice database & cheat sheet"
+    ],
+    [
+     "Level",
+     "Advanced (after Volume 2)"
+    ]
+   ],
+   "highlights": [
+    "Window frames, percentiles, gaps and islands, sessionisation",
+    "Cohort retention, funnel analysis, de-duplication and data-quality checks",
+    "RFM segmentation, A/B test z-test, churn and lifetime value case studies",
+    "EXPLAIN QUERY PLAN, indexes and sargable queries"
+   ],
+   "images": [
+    {
+     "thumb": "img/bjxjmf-0-t.webp",
+     "full": "img/bjxjmf-0.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$19+",
+   "free": false
+  },
+  {
+   "id": "cxhsk",
+   "category": "SQL Courses",
+   "badge": "Interview prep",
+   "name": "Crack the SQL Interview: 5 Real Scenarios Solved Step by Step (with Visuals)",
+   "price_cents": 1100,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/cxhsk",
+   "summary": "A visual 29-page guide to the SQL questions data analyst interviews really ask: 5 scenarios solved step by step, with the trap to avoid and what to say.",
+   "details": [
+    [
+     "Guide",
+     "29-page PDF with charts and diagrams"
+    ],
+    [
+     "Scenarios",
+     "5, each with a \"Your turn\" exercise"
+    ],
+    [
+     "Includes",
+     "Practice database (.sql)"
+    ],
+    [
+     "Level",
+     "Knows basic SQL"
+    ]
+   ],
+   "highlights": [
+    "Top N per group, month-on-month growth, lapsed customers, repeat purchases, top 20%",
+    "The C.L.E.A.R. method for any live SQL question",
+    "Model answers to say out loud, follow-ups and how interviewers score you",
+    "12 rapid-fire concept questions and an interview-day checklist"
+   ],
+   "images": [
+    {
+     "thumb": "img/cxhsk-0-t.webp",
+     "full": "img/cxhsk-0.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$11",
+   "free": false
+  },
+  {
+   "id": "rjlbel",
+   "category": "Excel Templates & Research",
+   "name": "Humanoid Robot FMEA Template – Design + Process FMEA (76 Failure Modes, Excel)",
+   "price_cents": 5900,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/rjlbel",
+   "summary": "76 ready-made failure modes for humanoid robots, with auto-calculated RPN, priorities and a top-10 risk dashboard.",
+   "details": [
+    [
+     "Format",
+     "Excel (.xlsx)"
+    ],
+    [
+     "Design FMEA",
+     "61 failure modes, 14 subsystems"
+    ],
+    [
+     "Process FMEA",
+     "15 failure modes"
+    ],
+    [
+     "Standards referenced",
+     "24"
+    ]
+   ],
+   "highlights": [
+    "Actuators, balance control, batteries, perception, AI planning, safety functions",
+    "RPN and High / Medium / Low priority calculate automatically",
+    "Summary dashboard with a top-10 risk list",
+    "Rating scales and a standards tab (ISO 13482, ISO 10218, ISO 13849 and more)"
+   ],
+   "images": [
+    {
+     "thumb": "img/rjlbel-0-t.webp",
+     "full": "img/rjlbel-0.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$59",
+   "free": false
+  },
+  {
+   "id": "qcoms",
+   "category": "Excel Templates & Research",
+   "name": "MENA Cybersecurity Buyer Segments & Regulations 2026 (Excel Lead Map)",
+   "price_cents": 2900,
+   "pwyw": false,
+   "url": "https://eksochanalytics.gumroad.com/l/qcoms",
+   "summary": "14 MENA buyer segments mapped to the 2026 regulations driving cybersecurity spend, with services to pitch and a pipeline tracker.",
+   "details": [
+    [
+     "Format",
+     "Excel (.xlsx)"
+    ],
+    [
+     "Buyer segments",
+     "14"
+    ],
+    [
+     "Countries",
+     "KSA, UAE, Qatar, Kuwait, Oman, Jordan, GCC"
+    ],
+    [
+     "Snapshot date",
+     "20 Nov 2026"
+    ]
+   ],
+   "highlights": [
+    "Regulatory trigger, buyer need, services to pitch and outreach angle per segment",
+    "Country-by-country regulations tab (NCA, PDPL, QCB, UAE CSC and more)",
+    "Pipeline tracker with a summary dashboard",
+    "Segment-level intelligence, no personal contact details"
+   ],
+   "images": [
+    {
+     "thumb": "img/qcoms-0-t.webp",
+     "full": "img/qcoms-0.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "A$29",
+   "free": false
+  },
+  {
+   "id": "alkhjn",
+   "category": "Free Cheat Sheets",
+   "name": "Python + SQL Cheatsheet",
+   "price_cents": 0,
+   "pwyw": true,
+   "url": "https://eksochanalytics.gumroad.com/l/alkhjn",
+   "summary": "A 6-page, color-coded PDF cheatsheet covering Python, SQL and how to use them together. Ready to print or keep open on a second screen.",
+   "details": [
+    [
+     "Format",
+     "PDF, US Letter landscape"
+    ],
+    [
+     "Pages",
+     "6"
+    ],
+    [
+     "Covers",
+     "Python 3.10+, standard SQL / PostgreSQL"
+    ]
+   ],
+   "highlights": [
+    "Python: strings, collections, comprehensions, classes, files, pandas essentials",
+    "SQL: query order, joins with diagrams, CTEs, window functions, upserts",
+    "Python ↔ SQL: sqlite3, SQLAlchemy, pandas.read_sql and interview patterns",
+    "Common mistakes flagged throughout"
+   ],
+   "images": [
+    {
+     "thumb": "img/alkhjn-0-t.webp",
+     "full": "img/alkhjn-0.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "Free",
+   "free": true
+  },
+  {
+   "id": "auvfs",
+   "category": "Free Cheat Sheets",
+   "name": "Excel Cheat Sheet for Data Analysis",
+   "price_cents": 0,
+   "pwyw": true,
+   "url": "https://eksochanalytics.gumroad.com/l/excel-cheat-sheet",
+   "summary": "Free 2-page PDF: 30+ formulas, shortcuts, PivotTables and error fixes.",
+   "details": [
+    [
+     "Format",
+     "PDF (A4, printable)"
+    ],
+    [
+     "Pages",
+     "2"
+    ]
+   ],
+   "highlights": [
+    "XLOOKUP, INDEX + MATCH, SUMIFS, FILTER, UNIQUE, LET and more",
+    "17 keyboard shortcuts and a PivotTable in 5 steps",
+    "Data cleaning checklist and which chart to use",
+    "How to fix #N/A, #VALUE!, #REF!, #DIV/0! and #SPILL!"
+   ],
+   "images": [
+    {
+     "thumb": "img/auvfs-0-t.webp",
+     "full": "img/auvfs-0.webp",
+     "ratio": 1.778
+    },
+    {
+     "thumb": "img/auvfs-1-t.webp",
+     "full": "img/auvfs-1.webp",
+     "ratio": 1.778
+    }
+   ],
+   "price": "Free",
+   "free": true
+  }
+ ]
+}
